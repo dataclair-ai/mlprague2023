@@ -33,7 +33,7 @@ Assignment 3: BBB PubMed BERT
 Assignment 4: BBB using SMILES model 
 - The assignment here is to use the previous notebook to help guide you to implement the same classification task but this time you will use a model that was pretrained on SMILES (search on HuggingFace or have a peek at the solution if you want to see the model I used)
 - The dataset you will use is the one with the cleaned SMILES column - this is the input to fine-tune the model (in the previous notebook you used the "name" column)
-- Otherwise the procedure should be almost identical as the above notebook - one of the advantages of using HuggingFace models :) 
+- Otherwise the procedure should be almost identical as the previous notebook - one of the advantages of using HuggingFace models :) 
 
 #### Solutions:
 Solution 1: Intro to transformers 
